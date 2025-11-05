@@ -1,11 +1,11 @@
-# Lab: 16
+# Lab: Assignment 16
 
 This program reads user input and saves user output
 ## How to Run
 1. Open the program in your IDE.
 2. Enter item name
-3. Price
-4. Quanitity
+3. Enter item Price
+4. Enter item Quanitity
 5. Receipt saved
 
 ## Example Output
