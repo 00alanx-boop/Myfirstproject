@@ -16,3 +16,6 @@ Receipt saved!
 
 ## Author
 Alan Castaneda Munoz
+
+## Collaboration Acknowledgment
+This project was reviewed and edited by Charles DeYarmon on GitHub.
